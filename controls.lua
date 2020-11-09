@@ -1,4 +1,4 @@
--- Version 1.7
+-- Version 1.7 (September 10, 2020)
 -- Controller disabler for FivePD menu's
 -- FiveM Control Documentation: https://docs.fivem.net/docs/game-references/controls/
 -- Created by Franky#0544 (Discord user)
